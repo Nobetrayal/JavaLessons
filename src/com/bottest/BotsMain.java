@@ -89,5 +89,5 @@ public class BotsMain {
 
         return critChance * 100 >= randomNum;
     }
-// TOdo blyat!
+
 }
